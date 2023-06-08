@@ -1,0 +1,34 @@
+{
+  "movimientos": [
+    {
+      "id": 1,
+      "details": "pago gasolina",
+      "quantity": 50000,
+      "type": "salida"
+    },
+    {
+      "id": 2,
+      "details": "pago agua",
+      "quantity": 90000,
+      "type": "salida"
+    },
+    {
+      "id": 3,
+      "details": "pago trabajo",
+      "quantity": 250000,
+      "type": "ingreso"
+    },
+    {
+      "id": 4,
+      "details": "pago trabajo 5 mayo",
+      "quantity": 350000,
+      "type": "ingreso"
+    },
+    {
+      "id": 5,
+      "details": "pago luz",
+      "quantity": 130000,
+      "type": "salida"
+    }
+  ]
+}
